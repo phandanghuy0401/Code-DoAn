@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mật khẩu</string>
+    <string name="action_sign_in">Đăng Nhập</string>
+    <string name="invalid_email">Email không hợp lệ</string>
+    <string name="invalid_password">Mật khẩu quá ngắn</string>
+    <string name="incorrect_password">Mật khẩu sai</string>
+    <string name="field_required">Không được bỏ trống</string>
+    <string name="action_sign_up">Đăng Ký</string>
+</resources>
